@@ -9,6 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebaseCloudTest">
+        <activity android:name=".WindowsActivity"></activity>
+        <activity android:name=".AppleActivity" />
+        <activity android:name=".SamsungActivity" />
+        <activity android:name=".MsiLaptop" />
+        <activity android:name=".DellLaptop" />
+        <activity android:name=".HpLaptop" />
+        <activity android:name=".PizzaActivity" />
+        <activity android:name=".FriesActivity" />
+        <activity android:name=".HamburgersActivity" />
+        <activity android:name=".SmartphonesActivity" />
+        <activity android:name=".LaptopsActivity" />
+        <activity android:name=".FoodActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
